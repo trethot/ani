@@ -9,8 +9,8 @@ Auto Installer , cPanel, Plesk, aaPanel automatic installer script along with se
 ```
 git clone https://github.com/trethot/ani/
 cd ani
-chmod +x install.sh
-./install.sh
+chmod +x installer.sh
+./installer.sh
 ```
 
 #### Support for operating systems
